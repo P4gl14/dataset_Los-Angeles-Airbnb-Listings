@@ -1,4 +1,4 @@
-# Analisi del Dataset di BnB
+# Analisi del Dataset Los Angeles Airbnb Listing
 Questo progetto riguarda l'analisi di un dataset di BnB, con vari script per filtrare e visualizzare i dati in base a diversi criteri. Qui di seguito sono descritti i diversi metodi di analisi implementati.
 
 ## Filtrare i BnB in base al range di valutazione passato
