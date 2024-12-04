@@ -17,7 +17,7 @@ Questo script permette di cercare i BnB in base al quartiere. Inserendo il nome 
 Questo script filtra e visualizza i BnB che sono prenotabili istantaneamente. Gli utenti possono scegliere di visualizzare i risultati in formato JSON o in formato standard.
 
 ## Grafico con il numero di BnB in base al range del prezzo da 2500 a 25000 con salto di 2500
-Questo script genera un grafico a barre orizzontali che mostra il numero di BnB distribuiti in range di prezzo di 2500 unità, da 2500 a 25000.
+Questo script genera un grafico a barre orizzontali che mostra il numero di BnB distribuiti in range di prezzo di 2500, da 2500 a 25000.
 
 ## Grafico con il numero di BnB in base al range del prezzo da 0 a 2000 con salto di 100
 Questo script genera un grafico a barre orizzontali che mostra il numero di BnB distribuiti in range di prezzo di 100 unità, da 0 a 2000.
@@ -25,8 +25,9 @@ Questo script genera un grafico a barre orizzontali che mostra il numero di BnB 
 ## Grafico con il numero dei BnB in base al quartiere
 Questo script genera un grafico a barre orizzontali che mostra il numero di BnB in ciascun quartiere. Nota: il caricamento di questo grafico potrebbe richiedere un po' di tempo poiché ci sono molti quartieri.
 
-## Grafico con il numero di BnB in base alla valutazione
-Questo script genera un grafico a barre orizzontali che mostra il numero di BnB distribuiti in base alle valutazioni ricevute.
+## Grafico con il numero di BnB in base alla valutazione (due tipologie)
+Il primo script genera un grafico a barre verticali che mostra il numero di BnB distribuiti in base alle valutazioni ricevute.
+Il secondo mostra le medesime informazioni ma con un grafico a torta
 
 ## Mappa interattiva con Folium
 Questo script crea una mappa interattiva utilizzando Folium, che rappresenta i BnB che rientrano in determinati requisiti. I BnB sono organizzati in base alla valutazione (range intero da 1 a 5). Nota: il caricamento della mappa potrebbe richiedere un po' di tempo poiché devono essere caricati fino a 1000 marker per valutazione.
