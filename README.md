@@ -1,4 +1,4 @@
-[Dataset][https://www.kaggle.com/datasets/oscarbatiz/los-angeles-airbnb-listings]
+[Dataset](https://www.kaggle.com/datasets/oscarbatiz/los-angeles-airbnb-listings)
 # Analisi del Dataset Los Angeles Airbnb Listing
 Questo progetto riguarda l'analisi di un dataset di BnB, con vari script per filtrare e visualizzare i dati in base a diversi criteri. Qui di seguito sono descritti i diversi metodi di analisi implementati.
 
