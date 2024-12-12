@@ -1,4 +1,5 @@
-[Dataset preso da qui](https://www.kaggle.com/datasets/oscarbatiz/los-angeles-airbnb-listings)
+Oscar Batiz, L. (2024). Dataset di analisi dei bnb di Los Angeles. Licenza: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Modificato (trasformato in json).
+[Link al dataset originale](https://www.kaggle.com/datasets/oscarbatiz/los-angeles-airbnb-listings)
 # Analisi del Dataset Los Angeles Airbnb Listing
 Questo progetto riguarda l'analisi di un dataset di BnB, con vari script per filtrare e visualizzare i dati in base a diversi criteri. Qui di seguito sono descritti i diversi metodi di analisi implementati.
 
