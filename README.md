@@ -32,6 +32,6 @@ Il secondo mostra le medesime informazioni ma con un grafico a torta
 ## Mappa interattiva con Folium
 Questo script crea una mappa interattiva utilizzando Folium, che rappresenta i BnB che rientrano in determinati requisiti. I BnB sono organizzati in base alla valutazione (range intero da 1 a 5). Nota: il caricamento della mappa potrebbe richiedere un po' di tempo poiché devono essere caricati fino a 1000 marker per valutazione.
 
-# Dataset originale
+## Dataset originale
 Oscar Batiz, L. (2024). Dataset di analisi dei bnb di Los Angeles. Licenza: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Modificato (trasformato in json).
 [Link al dataset](https://www.kaggle.com/datasets/oscarbatiz/los-angeles-airbnb-listings)
